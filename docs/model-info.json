@@ -1,9 +1,9 @@
 {
-  "revision": 2,
+  "revision": 3,
   "vertices": 24,
-  "frames": 60,
+  "frames": 0,
   "fps": 30.0,
-  "bytes": 24820,
-  "sha256": "24569a7e7e3f8ef532b980940a78526a344d8db7e5ff4c02f5fea2c291f8fb8d",
-  "updatedUtc": "2026-10-05T12:34:43.7231427Z"
+  "bytes": 1780,
+  "sha256": "232ee01a0196a14b9674b970e1b3002812df87fc7e248af7b8619c4cde751f0a",
+  "updatedUtc": "2026-10-05T12:38:51.2869683Z"
 }
